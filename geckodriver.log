@@ -1,0 +1,18 @@
+1678972188984	geckodriver	INFO	Listening on 127.0.0.1:51169
+1678972189565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepuR1Bx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678972190380	Marionette	INFO	Marionette enabled
+1678972190383	Marionette	INFO	Listening on port 45377
+Read port: 45377
+WebDriver BiDi listening on ws://127.0.0.1:43433
+1678972190637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepuR1Bx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43433/devtools/browser/d4d17ab6-4d53-421d-8e71-46f66b4d1668
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
