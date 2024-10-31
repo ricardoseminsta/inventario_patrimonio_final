@@ -1,0 +1,14 @@
+2024-10-30 15:27:54,437 - INFO - iniciando extarção campus cgar_suap
+2024-10-30 15:27:54,565 - INFO - Iniciando navegador
+2024-10-30 15:28:07,401 - INFO - acessando SUAP
+2024-10-30 15:28:09,945 - INFO - inserindo nome e senha
+2024-10-30 15:28:24,681 - INFO - preparando url search params 
+2024-10-30 15:28:24,681 - INFO - paginando pagina-1 
+2024-10-30 15:29:14,367 - INFO - capturando tabela e convertendo em lista
+2024-10-30 15:29:22,743 - INFO - montando DatFrame
+2024-10-30 15:29:22,743 - INFO - DataFrame montado
+2024-10-30 15:29:22,743 - INFO - paginando pagina-2 
+2024-10-30 15:30:09,774 - INFO - capturando tabela e convertendo em lista
+2024-10-30 15:30:18,082 - INFO - montando DatFrame
+2024-10-30 15:30:18,085 - INFO - DataFrame montado
+2024-10-30 15:30:18,086 - INFO - paginando pagina-3 
