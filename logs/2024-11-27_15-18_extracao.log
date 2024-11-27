@@ -1,0 +1,8 @@
+2024-11-27 15:18:43,468 - INFO - iniciando extarção campus crec_suap
+2024-11-27 15:18:43,726 - INFO - Iniciando navegador
+2024-11-27 15:18:50,106 - INFO - acessando SUAP
+2024-11-27 15:18:51,591 - INFO - inserindo nome e senha
+2024-11-27 15:19:19,033 - INFO - preparando url search params 
+2024-11-27 15:19:19,033 - INFO - paginando pagina-1 
+2024-11-27 15:20:00,891 - INFO - capturando tabela e convertendo em lista
+2024-11-27 15:20:14,103 - INFO - montando DatFrame
