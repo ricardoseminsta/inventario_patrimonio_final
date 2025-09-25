@@ -1,0 +1,384 @@
+2025-06-03 09:03:40,123 - INFO - iniciando extarção campus CAFI
+2025-06-03 09:03:40,580 - INFO - Iniciando navegador
+2025-06-03 09:04:02,003 - INFO - acessando SUAP
+2025-06-03 09:04:03,874 - INFO - inserindo nome e senha
+2025-06-03 09:04:20,794 - INFO - preparando url search params 
+2025-06-03 09:04:20,794 - INFO - paginando pagina-1 
+2025-06-03 09:05:00,299 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:05:18,310 - INFO - montando DatFrame
+2025-06-03 09:05:18,324 - INFO - DataFrame montado
+2025-06-03 09:05:18,324 - INFO - paginando pagina-2 
+2025-06-03 09:05:57,711 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:06:10,573 - INFO - montando DatFrame
+2025-06-03 09:06:10,588 - INFO - DataFrame montado
+2025-06-03 09:06:10,588 - INFO - paginando pagina-3 
+2025-06-03 09:06:50,180 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:07:07,282 - INFO - montando DatFrame
+2025-06-03 09:07:07,282 - INFO - DataFrame montado
+2025-06-03 09:07:07,282 - INFO - paginando pagina-4 
+2025-06-03 09:07:49,086 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:08:07,278 - INFO - montando DatFrame
+2025-06-03 09:08:07,286 - INFO - DataFrame montado
+2025-06-03 09:08:07,287 - INFO - paginando pagina-5 
+2025-06-03 09:08:47,460 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:09:03,543 - INFO - montando DatFrame
+2025-06-03 09:09:03,559 - INFO - DataFrame montado
+2025-06-03 09:09:03,559 - INFO - paginando pagina-6 
+2025-06-03 09:09:44,710 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:09:53,388 - INFO - montando DatFrame
+2025-06-03 09:09:53,388 - INFO - DataFrame montado
+2025-06-03 09:09:53,388 - INFO - paginando pagina-7 
+2025-06-03 09:10:33,866 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:10:47,096 - INFO - montando DatFrame
+2025-06-03 09:10:47,096 - INFO - DataFrame montado
+2025-06-03 09:10:47,096 - INFO - paginando pagina-8 
+2025-06-03 09:11:28,612 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:11:42,636 - INFO - montando DatFrame
+2025-06-03 09:11:42,636 - INFO - DataFrame montado
+2025-06-03 09:11:42,636 - INFO - paginando pagina-9 
+2025-06-03 09:12:23,489 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:12:32,437 - INFO - montando DatFrame
+2025-06-03 09:12:32,448 - INFO - DataFrame montado
+2025-06-03 09:12:32,448 - INFO - paginando pagina-10 
+2025-06-03 09:13:14,082 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:13:23,323 - INFO - montando DatFrame
+2025-06-03 09:13:23,332 - INFO - DataFrame montado
+2025-06-03 09:13:23,334 - INFO - paginando pagina-11 
+2025-06-03 09:14:03,635 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:14:12,560 - INFO - montando DatFrame
+2025-06-03 09:14:12,574 - INFO - DataFrame montado
+2025-06-03 09:14:12,576 - INFO - paginando pagina-12 
+2025-06-03 09:14:53,116 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:15:02,056 - INFO - montando DatFrame
+2025-06-03 09:15:02,056 - INFO - DataFrame montado
+2025-06-03 09:15:02,056 - INFO - paginando pagina-13 
+2025-06-03 09:15:44,240 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:15:53,132 - INFO - montando DatFrame
+2025-06-03 09:15:53,132 - INFO - DataFrame montado
+2025-06-03 09:15:53,132 - INFO - paginando pagina-14 
+2025-06-03 09:16:34,693 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:16:43,753 - INFO - montando DatFrame
+2025-06-03 09:16:43,769 - INFO - DataFrame montado
+2025-06-03 09:16:43,769 - INFO - paginando pagina-15 
+2025-06-03 09:17:25,790 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:17:41,310 - INFO - montando DatFrame
+2025-06-03 09:17:41,325 - INFO - DataFrame montado
+2025-06-03 09:17:41,328 - INFO - paginando pagina-16 
+2025-06-03 09:18:25,744 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:18:44,092 - INFO - montando DatFrame
+2025-06-03 09:18:44,092 - INFO - DataFrame montado
+2025-06-03 09:18:44,092 - INFO - paginando pagina-17 
+2025-06-03 09:19:27,789 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:19:36,852 - INFO - montando DatFrame
+2025-06-03 09:19:36,852 - INFO - DataFrame montado
+2025-06-03 09:19:36,852 - INFO - paginando pagina-18 
+2025-06-03 09:20:19,167 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:20:34,153 - INFO - montando DatFrame
+2025-06-03 09:20:34,159 - INFO - DataFrame montado
+2025-06-03 09:20:34,161 - INFO - paginando pagina-19 
+2025-06-03 09:21:16,194 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:21:25,116 - INFO - montando DatFrame
+2025-06-03 09:21:25,116 - INFO - DataFrame montado
+2025-06-03 09:21:25,132 - INFO - paginando pagina-20 
+2025-06-03 09:22:06,217 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:22:15,506 - INFO - montando DatFrame
+2025-06-03 09:22:15,509 - INFO - DataFrame montado
+2025-06-03 09:22:15,509 - INFO - paginando pagina-21 
+2025-06-03 09:22:55,572 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:23:04,206 - INFO - montando DatFrame
+2025-06-03 09:23:04,206 - INFO - DataFrame montado
+2025-06-03 09:23:04,206 - INFO - paginando pagina-22 
+2025-06-03 09:23:46,130 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:23:54,982 - INFO - montando DatFrame
+2025-06-03 09:23:54,982 - INFO - DataFrame montado
+2025-06-03 09:23:54,982 - INFO - paginando pagina-23 
+2025-06-03 09:24:36,473 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:24:45,110 - INFO - montando DatFrame
+2025-06-03 09:24:45,119 - INFO - DataFrame montado
+2025-06-03 09:24:45,121 - INFO - paginando pagina-24 
+2025-06-03 09:25:25,827 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:25:34,780 - INFO - montando DatFrame
+2025-06-03 09:25:34,780 - INFO - DataFrame montado
+2025-06-03 09:25:34,780 - INFO - paginando pagina-25 
+2025-06-03 09:26:15,534 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:26:25,469 - INFO - montando DatFrame
+2025-06-03 09:26:25,469 - INFO - DataFrame montado
+2025-06-03 09:26:25,469 - INFO - paginando pagina-26 
+2025-06-03 09:27:05,575 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:27:14,427 - INFO - montando DatFrame
+2025-06-03 09:27:14,427 - INFO - DataFrame montado
+2025-06-03 09:27:14,427 - INFO - paginando pagina-27 
+2025-06-03 09:27:54,692 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:28:03,670 - INFO - montando DatFrame
+2025-06-03 09:28:03,670 - INFO - DataFrame montado
+2025-06-03 09:28:03,670 - INFO - paginando pagina-28 
+2025-06-03 09:28:47,185 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:28:57,348 - INFO - montando DatFrame
+2025-06-03 09:28:57,363 - INFO - DataFrame montado
+2025-06-03 09:28:57,363 - INFO - paginando pagina-29 
+2025-06-03 09:29:38,767 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:29:47,576 - INFO - montando DatFrame
+2025-06-03 09:29:47,576 - INFO - DataFrame montado
+2025-06-03 09:29:47,576 - INFO - paginando pagina-30 
+2025-06-03 09:30:29,325 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:30:37,946 - INFO - montando DatFrame
+2025-06-03 09:30:37,946 - INFO - DataFrame montado
+2025-06-03 09:30:37,946 - INFO - paginando pagina-31 
+2025-06-03 09:31:19,758 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:31:28,575 - INFO - montando DatFrame
+2025-06-03 09:31:28,575 - INFO - DataFrame montado
+2025-06-03 09:31:28,575 - INFO - paginando pagina-32 
+2025-06-03 09:32:09,268 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:32:18,175 - INFO - montando DatFrame
+2025-06-03 09:32:18,185 - INFO - DataFrame montado
+2025-06-03 09:32:18,187 - INFO - paginando pagina-33 
+2025-06-03 09:32:56,238 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:33:04,863 - INFO - montando DatFrame
+2025-06-03 09:33:04,863 - INFO - DataFrame montado
+2025-06-03 09:33:04,863 - INFO - paginando pagina-34 
+2025-06-03 09:33:45,610 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:33:54,312 - INFO - montando DatFrame
+2025-06-03 09:33:54,328 - INFO - DataFrame montado
+2025-06-03 09:33:54,328 - INFO - paginando pagina-35 
+2025-06-03 09:34:34,942 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:34:44,081 - INFO - montando DatFrame
+2025-06-03 09:34:44,081 - INFO - DataFrame montado
+2025-06-03 09:34:44,097 - INFO - paginando pagina-36 
+2025-06-03 09:35:24,614 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:35:33,177 - INFO - montando DatFrame
+2025-06-03 09:35:33,177 - INFO - DataFrame montado
+2025-06-03 09:35:33,177 - INFO - paginando pagina-37 
+2025-06-03 09:36:13,612 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:36:22,352 - INFO - montando DatFrame
+2025-06-03 09:36:22,352 - INFO - DataFrame montado
+2025-06-03 09:36:22,352 - INFO - paginando pagina-38 
+2025-06-03 09:37:02,728 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:37:11,750 - INFO - montando DatFrame
+2025-06-03 09:37:11,759 - INFO - DataFrame montado
+2025-06-03 09:37:11,761 - INFO - paginando pagina-39 
+2025-06-03 09:37:54,546 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:38:03,468 - INFO - montando DatFrame
+2025-06-03 09:38:03,468 - INFO - DataFrame montado
+2025-06-03 09:38:03,468 - INFO - paginando pagina-40 
+2025-06-03 09:38:49,836 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:38:58,398 - INFO - montando DatFrame
+2025-06-03 09:38:58,401 - INFO - DataFrame montado
+2025-06-03 09:38:58,402 - INFO - paginando pagina-41 
+2025-06-03 09:39:44,959 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:39:53,681 - INFO - montando DatFrame
+2025-06-03 09:39:53,694 - INFO - DataFrame montado
+2025-06-03 09:39:53,694 - INFO - paginando pagina-42 
+2025-06-03 09:40:40,722 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:40:49,209 - INFO - montando DatFrame
+2025-06-03 09:40:49,217 - INFO - DataFrame montado
+2025-06-03 09:40:49,219 - INFO - paginando pagina-43 
+2025-06-03 09:41:37,206 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:41:45,806 - INFO - montando DatFrame
+2025-06-03 09:41:45,816 - INFO - DataFrame montado
+2025-06-03 09:41:45,816 - INFO - paginando pagina-44 
+2025-06-03 09:42:31,095 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:42:39,846 - INFO - montando DatFrame
+2025-06-03 09:42:39,846 - INFO - DataFrame montado
+2025-06-03 09:42:39,846 - INFO - paginando pagina-45 
+2025-06-03 09:43:28,332 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:43:37,036 - INFO - montando DatFrame
+2025-06-03 09:43:37,039 - INFO - DataFrame montado
+2025-06-03 09:43:37,040 - INFO - paginando pagina-46 
+2025-06-03 09:44:24,956 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:44:34,028 - INFO - montando DatFrame
+2025-06-03 09:44:34,031 - INFO - DataFrame montado
+2025-06-03 09:44:34,032 - INFO - paginando pagina-47 
+2025-06-03 09:45:18,470 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:45:27,278 - INFO - montando DatFrame
+2025-06-03 09:45:27,281 - INFO - DataFrame montado
+2025-06-03 09:45:27,282 - INFO - paginando pagina-48 
+2025-06-03 09:46:11,044 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:46:19,639 - INFO - montando DatFrame
+2025-06-03 09:46:19,642 - INFO - DataFrame montado
+2025-06-03 09:46:19,643 - INFO - paginando pagina-49 
+2025-06-03 09:47:03,524 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:47:12,304 - INFO - montando DatFrame
+2025-06-03 09:47:12,304 - INFO - DataFrame montado
+2025-06-03 09:47:12,316 - INFO - paginando pagina-50 
+2025-06-03 09:47:57,335 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:48:05,933 - INFO - montando DatFrame
+2025-06-03 09:48:05,933 - INFO - DataFrame montado
+2025-06-03 09:48:05,933 - INFO - paginando pagina-51 
+2025-06-03 09:48:51,395 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:49:00,311 - INFO - montando DatFrame
+2025-06-03 09:49:00,311 - INFO - DataFrame montado
+2025-06-03 09:49:00,311 - INFO - paginando pagina-52 
+2025-06-03 09:49:45,917 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:49:54,730 - INFO - montando DatFrame
+2025-06-03 09:49:54,741 - INFO - DataFrame montado
+2025-06-03 09:49:54,743 - INFO - paginando pagina-53 
+2025-06-03 09:50:44,379 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:50:52,994 - INFO - montando DatFrame
+2025-06-03 09:50:52,994 - INFO - DataFrame montado
+2025-06-03 09:50:52,994 - INFO - paginando pagina-54 
+2025-06-03 09:51:39,815 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:51:48,550 - INFO - montando DatFrame
+2025-06-03 09:51:48,564 - INFO - DataFrame montado
+2025-06-03 09:51:48,564 - INFO - paginando pagina-55 
+2025-06-03 09:52:35,924 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:52:44,654 - INFO - montando DatFrame
+2025-06-03 09:52:44,654 - INFO - DataFrame montado
+2025-06-03 09:52:44,654 - INFO - paginando pagina-56 
+2025-06-03 09:53:31,400 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:53:40,178 - INFO - montando DatFrame
+2025-06-03 09:53:40,185 - INFO - DataFrame montado
+2025-06-03 09:53:40,187 - INFO - paginando pagina-57 
+2025-06-03 09:54:25,617 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:54:34,643 - INFO - montando DatFrame
+2025-06-03 09:54:34,643 - INFO - DataFrame montado
+2025-06-03 09:54:34,643 - INFO - paginando pagina-58 
+2025-06-03 09:55:22,378 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:55:30,993 - INFO - montando DatFrame
+2025-06-03 09:55:30,993 - INFO - DataFrame montado
+2025-06-03 09:55:31,009 - INFO - paginando pagina-59 
+2025-06-03 09:56:19,584 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:56:28,893 - INFO - montando DatFrame
+2025-06-03 09:56:28,893 - INFO - DataFrame montado
+2025-06-03 09:56:28,893 - INFO - paginando pagina-60 
+2025-06-03 09:57:15,637 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:57:24,308 - INFO - montando DatFrame
+2025-06-03 09:57:24,308 - INFO - DataFrame montado
+2025-06-03 09:57:24,308 - INFO - paginando pagina-61 
+2025-06-03 09:58:13,465 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:58:22,303 - INFO - montando DatFrame
+2025-06-03 09:58:22,303 - INFO - DataFrame montado
+2025-06-03 09:58:22,303 - INFO - paginando pagina-62 
+2025-06-03 09:59:08,482 - INFO - capturando tabela e convertendo em lista
+2025-06-03 09:59:17,325 - INFO - montando DatFrame
+2025-06-03 09:59:17,325 - INFO - DataFrame montado
+2025-06-03 09:59:17,325 - INFO - paginando pagina-63 
+2025-06-03 10:00:02,103 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:00:11,641 - INFO - montando DatFrame
+2025-06-03 10:00:11,641 - INFO - DataFrame montado
+2025-06-03 10:00:11,654 - INFO - paginando pagina-64 
+2025-06-03 10:00:57,656 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:01:06,587 - INFO - montando DatFrame
+2025-06-03 10:01:06,603 - INFO - DataFrame montado
+2025-06-03 10:01:06,603 - INFO - paginando pagina-65 
+2025-06-03 10:01:54,651 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:02:03,588 - INFO - montando DatFrame
+2025-06-03 10:02:03,590 - INFO - DataFrame montado
+2025-06-03 10:02:03,592 - INFO - paginando pagina-66 
+2025-06-03 10:02:49,833 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:02:58,793 - INFO - montando DatFrame
+2025-06-03 10:02:58,795 - INFO - DataFrame montado
+2025-06-03 10:02:58,795 - INFO - paginando pagina-67 
+2025-06-03 10:03:45,950 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:03:55,767 - INFO - montando DatFrame
+2025-06-03 10:03:55,770 - INFO - DataFrame montado
+2025-06-03 10:03:55,771 - INFO - paginando pagina-68 
+2025-06-03 10:04:45,360 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:04:55,195 - INFO - montando DatFrame
+2025-06-03 10:04:55,201 - INFO - DataFrame montado
+2025-06-03 10:04:55,204 - INFO - paginando pagina-69 
+2025-06-03 10:05:43,066 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:05:57,721 - INFO - montando DatFrame
+2025-06-03 10:05:57,726 - INFO - DataFrame montado
+2025-06-03 10:05:57,726 - INFO - paginando pagina-70 
+2025-06-03 10:06:46,285 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:06:55,918 - INFO - montando DatFrame
+2025-06-03 10:06:55,924 - INFO - DataFrame montado
+2025-06-03 10:06:55,926 - INFO - paginando pagina-71 
+2025-06-03 10:07:45,179 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:07:54,913 - INFO - montando DatFrame
+2025-06-03 10:07:54,918 - INFO - DataFrame montado
+2025-06-03 10:07:54,920 - INFO - paginando pagina-72 
+2025-06-03 10:08:42,621 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:08:52,197 - INFO - montando DatFrame
+2025-06-03 10:08:52,200 - INFO - DataFrame montado
+2025-06-03 10:08:52,201 - INFO - paginando pagina-73 
+2025-06-03 10:09:39,955 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:09:50,473 - INFO - montando DatFrame
+2025-06-03 10:09:50,480 - INFO - DataFrame montado
+2025-06-03 10:09:50,483 - INFO - paginando pagina-74 
+2025-06-03 10:10:40,761 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:10:50,354 - INFO - montando DatFrame
+2025-06-03 10:10:50,360 - INFO - DataFrame montado
+2025-06-03 10:10:50,361 - INFO - paginando pagina-75 
+2025-06-03 10:11:38,605 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:11:53,382 - INFO - montando DatFrame
+2025-06-03 10:11:53,385 - INFO - DataFrame montado
+2025-06-03 10:11:53,387 - INFO - paginando pagina-76 
+2025-06-03 10:12:40,349 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:12:52,819 - INFO - montando DatFrame
+2025-06-03 10:12:52,824 - INFO - DataFrame montado
+2025-06-03 10:12:52,829 - INFO - paginando pagina-77 
+2025-06-03 10:13:40,684 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:13:49,617 - INFO - montando DatFrame
+2025-06-03 10:13:49,620 - INFO - DataFrame montado
+2025-06-03 10:13:49,622 - INFO - paginando pagina-78 
+2025-06-03 10:14:38,701 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:14:47,631 - INFO - montando DatFrame
+2025-06-03 10:14:47,631 - INFO - DataFrame montado
+2025-06-03 10:14:47,631 - INFO - paginando pagina-79 
+2025-06-03 10:15:37,753 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:15:46,804 - INFO - montando DatFrame
+2025-06-03 10:15:46,804 - INFO - DataFrame montado
+2025-06-03 10:15:46,820 - INFO - paginando pagina-80 
+2025-06-03 10:16:34,855 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:16:43,784 - INFO - montando DatFrame
+2025-06-03 10:16:43,800 - INFO - DataFrame montado
+2025-06-03 10:16:43,802 - INFO - paginando pagina-81 
+2025-06-03 10:17:29,299 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:17:38,203 - INFO - montando DatFrame
+2025-06-03 10:17:38,203 - INFO - DataFrame montado
+2025-06-03 10:17:38,203 - INFO - paginando pagina-82 
+2025-06-03 10:18:26,042 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:18:34,961 - INFO - montando DatFrame
+2025-06-03 10:18:34,961 - INFO - DataFrame montado
+2025-06-03 10:18:34,961 - INFO - paginando pagina-83 
+2025-06-03 10:19:24,332 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:19:33,392 - INFO - montando DatFrame
+2025-06-03 10:19:33,392 - INFO - DataFrame montado
+2025-06-03 10:19:33,392 - INFO - paginando pagina-84 
+2025-06-03 10:20:21,840 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:20:30,903 - INFO - montando DatFrame
+2025-06-03 10:20:30,907 - INFO - DataFrame montado
+2025-06-03 10:20:30,909 - INFO - paginando pagina-85 
+2025-06-03 10:21:20,635 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:21:29,688 - INFO - montando DatFrame
+2025-06-03 10:21:29,688 - INFO - DataFrame montado
+2025-06-03 10:21:29,703 - INFO - paginando pagina-86 
+2025-06-03 10:22:16,754 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:22:25,802 - INFO - montando DatFrame
+2025-06-03 10:22:25,802 - INFO - DataFrame montado
+2025-06-03 10:22:25,802 - INFO - paginando pagina-87 
+2025-06-03 10:23:06,989 - INFO - capturando tabela e convertendo em lista
+2025-06-03 10:23:10,872 - INFO - montando DatFrame
+2025-06-03 10:23:10,882 - INFO - DataFrame montado
+2025-06-03 10:23:10,884 - INFO - paginando pagina-88 
+2025-06-03 10:23:48,742 - INFO - acabaram as paginas
+2025-06-03 10:23:48,742 - INFO - Extracao finalizada as: 2025-06-03 10:23:48.742633 na pagina 88
+2025-06-03 10:23:48,762 - INFO - exportando arquivo .xlsx
+2025-06-03 10:30:47,826 - INFO - Iniciando navegador
+2025-06-03 10:30:56,521 - INFO - acessando SUAP
+2025-06-03 10:30:57,918 - INFO - inserindo nome e senha
+2025-06-03 10:31:58,257 - INFO - Iniciando navegador
+2025-06-03 10:32:06,460 - INFO - acessando SUAP
+2025-06-03 10:32:07,778 - INFO - inserindo nome e senha
+2025-06-03 12:32:33,649 - INFO - Iniciando navegador
+2025-06-03 12:32:40,391 - INFO - acessando SUAP
+2025-06-03 12:32:41,472 - INFO - inserindo nome e senha
+2025-06-03 14:33:06,413 - INFO - Iniciando navegador
+2025-06-03 14:33:11,414 - INFO - acessando SUAP
+2025-06-03 14:33:12,679 - INFO - inserindo nome e senha
+2025-06-03 16:33:37,144 - INFO - Iniciando navegador
+2025-06-03 16:33:42,241 - INFO - acessando SUAP
+2025-06-03 16:33:43,333 - INFO - inserindo nome e senha
+2025-06-03 18:34:13,747 - INFO - Iniciando navegador
+2025-06-03 18:34:18,788 - INFO - acessando SUAP
+2025-06-03 18:34:19,831 - INFO - inserindo nome e senha
+2025-06-03 20:34:48,252 - INFO - Iniciando navegador
+2025-06-03 20:34:53,872 - INFO - acessando SUAP
+2025-06-03 20:34:54,975 - INFO - inserindo nome e senha
+2025-06-03 22:35:16,142 - INFO - Iniciando navegador
+2025-06-03 22:35:25,288 - INFO - acessando SUAP
+2025-06-03 22:35:26,479 - INFO - inserindo nome e senha
+2025-06-04 00:36:00,278 - INFO - Iniciando navegador
+2025-06-04 00:36:11,865 - INFO - acessando SUAP
+2025-06-04 00:36:13,102 - INFO - inserindo nome e senha
